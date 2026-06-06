@@ -1,2 +1,1 @@
-# infra-mcdo
-repo pruebas de mcdo 2025
+# test-uai-lab01-mlops
